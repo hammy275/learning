@@ -1,5 +1,8 @@
 import tkinter as tk
 
+# You can use from tkinter import ttk, and use ttk.whatever for better theming at the cost of customization
+# You can use both at the same time, but ttk looks better :p
+
 # Learning from https://realpython.com/python-gui-tkinter/
 
 window = tk.Tk()
