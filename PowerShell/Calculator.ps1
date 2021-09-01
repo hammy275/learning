@@ -1,8 +1,4 @@
-﻿function GetInput-Answers[string] {
-    param (
-        [string]$Question,
-        [string[]]$Answers
-    )
+﻿function GetInput-Answers([string]$Question, [string[]]$Answers) {
     $ans = $null;
     while ($ans -eq $null -or !$Answers.Contains($ans)) {
         $ans = Read-Host $Question;
@@ -10,10 +6,7 @@
     return $ans;
 }
 
-function GetDouble[double] {
-    param (
-        [string]$Question
-    )
+function GetDouble([string]$Question) {
     $isNum = $false;
     $num = "";
     while (!$isNum) {
