@@ -1,0 +1,14 @@
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+C:\Users\hammy3502\Git Repos\learning\CSharp\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache
