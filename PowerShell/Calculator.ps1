@@ -1,6 +1,6 @@
-﻿function GetInput-Answers([string]$Question, [string[]]$Answers) {
+﻿function GetInput([string]$Question, [string[]]$Answers) {
     $ans = $null;
-    while ($ans -eq $null -or !$Answers.Contains($ans)) {
+    while ($null -eq $ans -or !$Answers.Contains($ans)) {
         $ans = Read-Host $Question;
     }
     return $ans;
@@ -17,7 +17,7 @@ function GetDouble([string]$Question) {
     return $num;
 }
 
-$mode = GetInput-Answers "Would you like to perform [a]ddition, [s]ubtraction, [m]ultiplication, or [d]ivision?" @("a", "s", "m", "d");
+$mode = GetInput "Would you like to perform [a]ddition, [s]ubtraction, [m]ultiplication, or [d]ivision?" @("a", "s", "m", "d");
 $num1 = GetDouble "Enter first number: ";
 $num2 = GetDouble "Enter second number: ";
 switch ($mode) {
